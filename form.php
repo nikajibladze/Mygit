@@ -115,7 +115,7 @@ if(!$_SESSION['logged_in']){
                                                                 <input type="text" class="form-control" autocomplete="off" name="date" placeholder="mm/dd/yyyy" id="datepicker-autoclose">
                                                                 <span class="input-group-addon bg-custom b-0"><i class="mdi mdi-calendar"></i></span>
                                                                 
-                                                            </div><!-- input-group -->
+                                                            </div>
                                                         </div>
                                                     </div>            
                                                             <div class="form-group">
